@@ -7,5 +7,4 @@ The image dataset contains 23,222 thousand images classified according to the 6 
 This dataset was generated in ROS/Gazebo.
 
 ```
-Hola
-```
+
