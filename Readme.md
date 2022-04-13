@@ -1,4 +1,4 @@
-# Dataset in ROS
+# Dataset to Recognize Emotions in ROS
 
 The dataset is composed of images and videos, images are classified according to the 6 basic emotions (happy, sad, angry, surprise, disgust, fear) and videos are classified as negative, neutral or positive emotions.
 
