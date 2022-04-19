@@ -10,4 +10,7 @@ The image dataset contains 23,222 thousand images classified according to the 6 
 
 This dataset was generated in ROS/Gazebo.
 
+To download the virtual actors ([click here](https://drive.google.com/drive/folders/1kjfwSeM7grGbQSMPJCo7cBx5k9mS1m3F?usp=sharing))
+
+
 ```
