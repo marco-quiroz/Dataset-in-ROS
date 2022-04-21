@@ -12,5 +12,6 @@ This dataset was generated in ROS/Gazebo.
 
 To download the virtual models ([click here](https://drive.google.com/drive/folders/1kjfwSeM7grGbQSMPJCo7cBx5k9mS1m3F?usp=sharing))
 
+We use this data set to recognize emotions in ROS, the process performed is available on YouTube ([click here](https://www.youtube.com/watch?v=sn0mn-aM0WY))
 
 ```
